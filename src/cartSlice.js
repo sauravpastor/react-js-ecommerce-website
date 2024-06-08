@@ -33,7 +33,7 @@ const cartSlice = createSlice({
                 qnty:1
             });
         }
-
+        
     },
         addQTY:(state, action)=>
         {
